@@ -1,6 +1,6 @@
 ﻿namespace WebApi.Model
 {
-    public class DianosticTest
+    public class DiagnosticTest
     {
         public Guid Id { get; set; }
         public required string Name { get; set; }

@@ -11,7 +11,7 @@ namespace WebApi.Data
         public DbSet<User> users { get; set; }
         public DbSet<Nofication> nofications { get; set; }
         public DbSet<MonitoredDestination> monitoredDestinations { get; set; }
-        public DbSet<DianosticTest> dianosticTests { get; set; }
+        public DbSet<DiagnosticTest> dianosticTests { get; set; }
        
     }
 }
