@@ -1,7 +1,92 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\twarisani.nxumalo\\source\\repos\\WebApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\exceptions\\alreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\exceptions\\alreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\helpers\\passwordhandlingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\helpers\\passwordhandlingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\dtos\\monitoreddestinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\monitoreddestinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\validators\\diagnostictestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\diagnostictestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\validators\\notificationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\notificationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\models\\dianostictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\dianostictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\models\\nofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\nofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\models\\monitoreddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\monitoreddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\dtos\\dianostictestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\dianostictestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|c:\\users\\twarisani.nxumalo\\project\\proj\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA0208F-56DC-4403-AED3-2E78B89697B8}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +94,277 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Exceptions\\AlreadyExistException.cs",
+              "RelativeDocumentMoniker": "WebApi\\Exceptions\\AlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Exceptions\\AlreadyExistException.cs",
+              "RelativeToolTip": "WebApi\\Exceptions\\AlreadyExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:13:52.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\User.cs",
+              "RelativeToolTip": "WebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:09:18.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHandlingService.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Helpers\\PasswordHandlingService.cs",
+              "RelativeDocumentMoniker": "WebApi\\Helpers\\PasswordHandlingService.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Helpers\\PasswordHandlingService.cs",
+              "RelativeToolTip": "WebApi\\Helpers\\PasswordHandlingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:55:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApi\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:39:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\NotificationDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:26:20.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:27:28.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Helpers\\TokenService.cs",
+              "RelativeDocumentMoniker": "WebApi\\Helpers\\TokenService.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Helpers\\TokenService.cs",
+              "RelativeToolTip": "WebApi\\Helpers\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:49:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonitoredDestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\MonitoredDestinationDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\MonitoredDestinationDto.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\MonitoredDestinationDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\MonitoredDestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:41:55.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "WebApi\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "WebApi\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:46:17.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T18:36:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiagnosticTestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Validators\\DiagnosticTestValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\DiagnosticTestValidator.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Validators\\DiagnosticTestValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\DiagnosticTestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:20:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Validators\\NotificationValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\NotificationValidator.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Validators\\NotificationValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\NotificationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:35:16.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:01:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Interfaces\\INotification.cs",
+              "RelativeDocumentMoniker": "WebApi\\Interfaces\\INotification.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Interfaces\\INotification.cs",
+              "RelativeToolTip": "WebApi\\Interfaces\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:46:39.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MonitoredDestination.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\MonitoredDestination.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\MonitoredDestination.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\MonitoredDestination.cs",
+              "RelativeToolTip": "WebApi\\Models\\MonitoredDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:31:39.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DianosticTest.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\DianosticTest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\DianosticTest.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\DianosticTest.cs",
+              "RelativeToolTip": "WebApi\\Models\\DianosticTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:28:20.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\Location.cs",
+              "RelativeToolTip": "WebApi\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:32:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Nofication.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\Nofication.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Nofication.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Models\\Nofication.cs",
+              "RelativeToolTip": "WebApi\\Models\\Nofication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:26:18.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DianosticTestDto.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\DianosticTestDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\DianosticTestDto.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\DianosticTestDto.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\DianosticTestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:41:24.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogInResponse.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\LogInResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dtos\\LogInResponse.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Dtos\\LogInResponse.cs",
+              "RelativeToolTip": "WebApi\\Dtos\\LogInResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:47:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\twarisani.nxumalo\\project\\proj\\WebApi\\WebApi\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApi\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:36:48.224Z"
             }
           ]
         }
